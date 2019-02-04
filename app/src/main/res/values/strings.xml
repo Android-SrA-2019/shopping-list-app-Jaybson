@@ -10,4 +10,15 @@
     <string name="txt8">- </string>
     <string name="txt9">- </string>
     <string name="txt10">- </string>
+    <string name="btnAdd">Add Item</string>
+    <string name="btnItem1">Carrots</string>
+    <string name="btnItem2">Steaks</string>
+    <string name="btnItem3">Cheese</string>
+    <string name="btnItem4">Rice</string>
+    <string name="btnItem5">Apples</string>
+    <string name="btnItem6">Potatoes</string>
+    <string name="btnItem7">Chips</string>
+    <string name="btnItem8">Bacon</string>
+    <string name="btnItem9">Eggs</string>
+    <string name="btnItem10">Milk</string>
 </resources>
