@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="txt1">- </string>
+    <string name="txt2">- </string>
+    <string name="txt3">- </string>
+    <string name="txt4">- </string>
+    <string name="txt5">- </string>
+    <string name="txt6">- </string>
+    <string name="txt7">- </string>
+    <string name="txt8">- </string>
+    <string name="txt9">- </string>
+    <string name="txt10">- </string>
 </resources>
