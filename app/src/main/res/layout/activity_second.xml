@@ -13,6 +13,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="32dp"
         android:text="@string/btnItem1"
+        android:onClick="launchMainActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -23,6 +24,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="32dp"
         android:text="@string/btnItem2"
+        android:onClick="launchMainActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn1" />
 
@@ -33,6 +35,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="32dp"
         android:text="@string/btnItem3"
+        android:onClick="launchMainActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn2" />
 
@@ -43,6 +46,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="32dp"
         android:text="@string/btnItem5"
+        android:onClick="launchMainActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn3" />
 
@@ -53,6 +57,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="32dp"
         android:text="@string/btnItem4"
+        android:onClick="launchMainActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn4" />
 
@@ -63,6 +68,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="31dp"
         android:text="@string/btnItem6"
+        android:onClick="launchMainActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -73,6 +79,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="31dp"
         android:text="@string/btnItem7"
+        android:onClick="launchMainActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn6" />
 
@@ -83,6 +90,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="31dp"
         android:text="@string/btnItem8"
+        android:onClick="launchMainActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn7" />
 
@@ -93,16 +101,18 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="31dp"
         android:text="@string/btnItem9"
+        android:onClick="launchMainActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn8" />
 
     <Button
-        android:id="@+id/10"
+        android:id="@+id/btn10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="31dp"
         android:text="@string/btnItem10"
+        android:onClick="launchMainActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn9" />
 </android.support.constraint.ConstraintLayout>
